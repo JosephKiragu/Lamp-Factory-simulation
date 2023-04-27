@@ -35,11 +35,3 @@ To run the project, follow these steps:
 ## Results
 
 The results of the simulation include histograms and QQ-plots for inter-arrival times and machine times, as well as ensemble averages and standard deviations for different machine time configurations. These results can be used to optimize the performance of the lamp factory and minimize the average length of the queues.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
-## Acknowledgements
-
-We would like to thank everyone who contributed to this project and provided valuable feedback.
