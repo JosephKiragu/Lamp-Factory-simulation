@@ -1,5 +1,7 @@
 # Lamp Factory Simulation
 
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg0MzMwYzA0YjFjMWMxNWQwYzQ3YzdiODNkZDczZWVlODE5NjVjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/GB9KAVTr6aGvkGq6XC/giphy.gif" height="175px"/></a>
+
 This project is a simulation of a lamp factory consisting of two machines (Machine 1 and Machine 2) and a queue for each machine. The goal is to analyze the factory's performance in terms of the average length of the queues and the impact of different machine time configurations.
 
 ## Overview
